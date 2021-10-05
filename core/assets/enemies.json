@@ -1,0 +1,22 @@
+[
+  {
+    "name": "BLOOD-DRENCHED SKELETON",
+    "xp": 3,
+    "hp": 4
+  },
+  {
+    "name": "CATACOMB CULTIST",
+    "xp": 3,
+    "hp": 6
+  },
+  {
+    "name": "GOBLIN",
+    "xp": 3,
+    "hp": 5
+  },
+  {
+    "name": "UNDEAD HOUND",
+    "xp": 4,
+    "hp": 6
+  }
+]
